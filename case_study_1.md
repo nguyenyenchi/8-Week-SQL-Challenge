@@ -631,3 +631,6 @@ ORDER BY
 - Read the questions carefully
 - Check if a CTE is really needed e.g. I can directly use SUM(CASE WHEN...) THEN a GROUP BY in one query, instead of use a CTE for the CASE WHEN then use SUM() with GROUP BY in the following query
 - Use number * col_name in calculation e.g. '10 * price' instead of 'price * 10' for readability
+
+--- 
+&copy; 2022 Yen Chi Nguyen
