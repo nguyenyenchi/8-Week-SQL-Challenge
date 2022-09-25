@@ -4,5 +4,5 @@ Case studies' requirements and resources are available [here](https://8weeksqlch
 
 # Table of contents
 - [Case Study #1 - Danny's Diner](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/case_study_1.md)
-- Case Study #2 - Pizza Runner
+- [Case Study #2 - Pizza Runner](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/case_study_2A.md)
 
