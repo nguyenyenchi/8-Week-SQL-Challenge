@@ -5,7 +5,8 @@ Case studies' requirements and resources are available [here](https://8weeksqlch
 # Table of contents
 
 ## Course notes
-- [Chapter 1. Select & Sort Data](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/1.%20Select%20%26%20Sort%20Data.md)
+- [Chapter 1. Select & Sort Data](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/serious-sql%20notes/1.%20Select%20%26%20Sort%20Data.md)
+- [Chapter 2. Record Counts & Distinct Values](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/serious-sql%20notes/2.%20Record%20Counts%20%26%20Distinct%20Values.md)
 
 ## Case studies
 - [Case Study #1 - Danny's Diner](https://github.com/nguyenyenchi/8-Week-SQL-Challenge/blob/main/case_study_1.md)
