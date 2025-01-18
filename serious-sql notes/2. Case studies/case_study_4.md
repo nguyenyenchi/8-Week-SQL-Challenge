@@ -211,6 +211,7 @@ ORDER BY percentile;
 Results:
 - 5% of txn_amount are under $51.
 - It appears that there are 59 values in each of the first five buckets.
+
 | percentile | floor_value | ceiling_value | frequency |
 | ---------- | ----------- | ------------- | --------- |
 | 1          | 0           | 11            | 59        |
@@ -221,8 +222,10 @@ Results:
 
 - 99% of values are under $990.
 - With the last 5 buckets, each of them has 58 values.
+
+| percentile | floor_value | ceiling_value | frequency |
+| ---------- | ----------- | ------------- | --------- |
 | 96  | 951 | 963  | 58 |
-| --- | --- | ---- | -- |
 | 97  | 963 | 972  | 58 |
 | 98  | 972 | 981  | 58 |
 | 99  | 981 | 990  | 58 |
